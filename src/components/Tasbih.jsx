@@ -103,7 +103,7 @@ export default function Tasbih() {
   return (
     <div style={{
       minHeight: "100vh",
-      background: "linear-gradient(160deg, #0f1b2d 0%, #1a2d4a 50%, #0d2235 100%)",
+      background: "linear-gradient(160deg, #4e6b96 0%, #1a2d4a 50%, #0d2235 100%)",
       display: "flex",
       flexDirection: "column",
       alignItems: "center",
